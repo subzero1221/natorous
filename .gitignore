@@ -1,0 +1,6 @@
+*.env
+node_modules
+dev-data
+.parcel-cache
+.DS_Store
+.vscode
